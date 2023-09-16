@@ -1,6 +1,12 @@
 name: testBuild
 on:
   push
+env:
+  GIT_USER: SkylerTsai
+  GIT_EMAIL: skyler17889@gmail.com
+  THEME_REPO: SkylerTsai/VUE_PAGE_DEPLOY_TEST
+  THEME_BRANCH: main
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
