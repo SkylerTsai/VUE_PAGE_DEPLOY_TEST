@@ -1,4 +1,4 @@
-# vue_deploy_test
+# VUE_PAGE_DEPLOY_TEST
 
 ## Project setup
 ```
